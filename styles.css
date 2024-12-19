@@ -36,3 +36,4 @@ outline-style: none; outline-width: 0;
 }
 .picture{justify-content: center;}
 .dogs{color:#f6f7eb;}
+.details{display:list-item;}
