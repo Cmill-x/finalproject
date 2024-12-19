@@ -13,20 +13,22 @@ p{
 *{background-color:#264027;  
    
 }
-div{outline-width:2; outline-color:#d5a021; outline-style:dotted;}
+div{outline-width:2; outline-color:#50723c; outline-style:dotted;}
 
 h1,h2{
     text-align:center;
     color:#f6f7eb;
 }
 
-.pagelink{color:#d5a021; text-align: right; }
+.pagelink{color:#6ccf63; text-align: right; }
+
+a:hover{color:#f6f7eb}
 
 .header{
     display:flex; justify-content: space-around;
 }
 .logo{
-    max-width: 1; max-height: 1;
+    max-width: 1; max-height: 1; outline-style: groove; outline-color: #50723c;
 }
 .nav{
 outline-style: none; outline-width: 0; 
