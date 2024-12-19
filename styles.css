@@ -28,7 +28,7 @@ a:hover{color:#f6f7eb}
     display:flex; justify-content: space-around;
 }
 .logo{
-    max-width: 1; max-height: 1; outline-style: groove; outline-color: #50723c;
+    max-width: .25; max-height: .25; outline-style: groove; outline-color: #50723c;
 }
 .nav{
 outline-style: none; outline-width: 0; 
