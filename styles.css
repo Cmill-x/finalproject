@@ -4,6 +4,7 @@ li, ul{
     list-style-type:none; 
     margin:0;
     padding:0;
+    color:#f6f7eb;
 }
 p{
     padding: 0.5;
