@@ -4,7 +4,7 @@ li, ul{
     list-style-type:none; 
     margin:0;
     padding:0;
-    
+    color:#f6f7eb;
 }
 p{
     padding: 0.5;
@@ -36,4 +36,4 @@ outline-style: none; outline-width: 0;
 }
 .picture{justify-content: center;}
 .dogs{color:#f6f7eb;}
-.details{display:list-item;}
+.details{display:list-item; color:#f6f7eb;}
