@@ -26,8 +26,8 @@ h1,h2{
     display:flex; justify-content: space-around;
 }
 .logo{
-    
+    max-width: 1; max-height: 1;
 }
 .nav{
-
+outline-style: none; outline-width: 0; 
 }
